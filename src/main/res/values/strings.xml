@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleApp</string>
+    <string name="button_str">Count</string>
+    <string name="EMPTY_STR"/>
+</resources>
